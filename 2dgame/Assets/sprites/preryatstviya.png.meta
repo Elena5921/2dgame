@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: cff30e1a129307847bfe4db3d9d982d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6814533237507191776
+    second: preryatstviya_0
+  - first:
+      213: 4267605927773855189
+    second: preryatstviya_1
+  - first:
+      213: -3155510709536716549
+    second: preryatstviya_2
+  - first:
+      213: 6232229111655652552
+    second: preryatstviya_3
+  - first:
+      213: -1177797221849756639
+    second: preryatstviya_4
+  - first:
+      213: 7967156957193787978
+    second: preryatstviya_5
+  - first:
+      213: 8742923278507564222
+    second: preryatstviya_6
+  - first:
+      213: -3525593610561069636
+    second: preryatstviya_7
+  - first:
+      213: -4486913117082410984
+    second: preryatstviya_8
+  - first:
+      213: -3501066099338223376
+    second: preryatstviya_9
+  - first:
+      213: -572256186822957462
+    second: preryatstviya_10
+  - first:
+      213: 8803794476132673496
+    second: preryatstviya_11
+  - first:
+      213: 5492967158165484396
+    second: preryatstviya_12
+  - first:
+      213: -6802616105690710275
+    second: preryatstviya_13
+  - first:
+      213: 165803885401321550
+    second: preryatstviya_14
+  - first:
+      213: -5505182830873213979
+    second: preryatstviya_15
+  - first:
+      213: -2267709682432014850
+    second: preryatstviya_16
+  - first:
+      213: 5864866771519264405
+    second: preryatstviya_17
+  - first:
+      213: -4255916441662511682
+    second: preryatstviya_18
+  - first:
+      213: 3340632952488264934
+    second: preryatstviya_19
+  - first:
+      213: -1526125726525478185
+    second: preryatstviya_20
+  - first:
+      213: 8726631431281739270
+    second: preryatstviya_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: preryatstviya_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 437
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8a4c102aed61a0800000000000000
+      internalID: -6814533237507191776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 420
+        width: 91
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dddf460bf4993b30800000000000000
+      internalID: 4267605927773855189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 420
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf88f117abf5534d0800000000000000
+      internalID: -3155510709536716549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 341
+        width: 128
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc55177b535d7650800000000000000
+      internalID: 6232229111655652552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 315
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c043ebaaf97afe0800000000000000
+      internalID: -1177797221849756639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 385
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a515f6a07019e60800000000000000
+      internalID: 7967156957193787978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 327
+        width: 134
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcdfe9566a155970800000000000000
+      internalID: 8742923278507564222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 208
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdde146a43921fc0800000000000000
+      internalID: -3525593610561069636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 316
+        width: 101
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810234eea484bb1c0800000000000000
+      internalID: -4486913117082410984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 274
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f068cd9ee6b96fc0800000000000000
+      internalID: -3501066099338223376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 274
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e5efa700fe08f0800000000000000
+      internalID: -572256186822957462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 272
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72f697e6c5d2a70800000000000000
+      internalID: 8803794476132673496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 285
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6337510780fa3c40800000000000000
+      internalID: 5492967158165484396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 207
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe34f491b04891a0800000000000000
+      internalID: -6802616105690710275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 217
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b9bb51cd0d4200800000000000000
+      internalID: 165803885401321550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 212
+        width: 153
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3093e0269a993b0800000000000000
+      internalID: -5505182830873213979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef50de40f0a7780e0800000000000000
+      internalID: -2267709682432014850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 25
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596d56b5141346150800000000000000
+      internalID: 5864866771519264405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 99
+        width: 181
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb526fc8b82ffe4c0800000000000000
+      internalID: -4255916441662511682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 25
+        width: 165
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4070a88ff4c5e20800000000000000
+      internalID: 3340632952488264934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 106
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da2ddbccbc12dae0800000000000000
+      internalID: -1526125726525478185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: preryatstviya_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 112
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6068e431d093b1970800000000000000
+      internalID: 8726631431281739270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
